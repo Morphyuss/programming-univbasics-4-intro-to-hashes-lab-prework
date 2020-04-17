@@ -2,7 +2,8 @@ def new_hash
   {}# return an empty hash
 end
 
-def my_hash {
+def my_hash
+  {
   dog => "Fido", cat => "Garfield"
 }
   # return a valid hash with any key/value pair of your choice
